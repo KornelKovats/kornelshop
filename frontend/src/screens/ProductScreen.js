@@ -96,7 +96,6 @@ function ProductScreen(props) {
                       </>
                     )
                   }
-
                 </ul>
               </div>
             </div>
